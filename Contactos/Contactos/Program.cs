@@ -21,7 +21,7 @@ public class Contacto //En esta calse declaramos las variables que utilizaremos 
 
     public override string ToString()//Requisito 1
     {
-        return $"ID: {Id}, Nombre: {Nombre}, Teléfono: {Telefono}, Email: {Email}";//Requisito 1
+        return $"ID: {Id}, Nombre y Apellido: {Nombre}, Teléfono: {Telefono}, Email: {Email}";//Requisito 1
     }
 }
 
