@@ -12,7 +12,7 @@ namespace Contactos
 }
 
 [Serializable]
-public class Contacto //En esta calse declaramos las variables que utilizaremos en nuestra aplicación: ID, Nombre y Apellido, Telefono, Email 
+public class Contacto //En esta clase declaramos las variables que utilizaremos en nuestra aplicación: ID, Nombre y Apellido, Telefono, Email 
 {
     public int Id { get; set; }
     public string Nombre { get; set; }
