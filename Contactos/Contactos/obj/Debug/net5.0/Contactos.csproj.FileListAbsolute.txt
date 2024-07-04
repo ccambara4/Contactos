@@ -1,0 +1,16 @@
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\bin\Debug\net5.0\Contactos.exe
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\bin\Debug\net5.0\Contactos.deps.json
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\bin\Debug\net5.0\Contactos.runtimeconfig.json
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\bin\Debug\net5.0\Contactos.runtimeconfig.dev.json
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\bin\Debug\net5.0\Contactos.dll
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\bin\Debug\net5.0\Contactos.pdb
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.dll
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\ref\Contactos.dll
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.pdb
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\obj\Debug\net5.0\Contactos.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Ejemplo Trabajo\Contactos\Contactos\bin\Debug\net5.0\ref\Contactos.dll
